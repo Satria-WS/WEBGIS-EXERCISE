@@ -1,0 +1,17 @@
+THEORY GIS
+
+- GIS , merupakan singakatan dari Geographic Information System  yaitu suatu alat untuk mengelola data spasial
+- SPASIAL, data seperti vector(garis,titik,polygon) atau raster (citra satellite,peta drone)
+
+- WebGis , aplikasi GIS yg berbasis WEB yang dapat d akses melalui internet. Untuk memproses permitaan peta dari client dan kemudian dikirimkan kembali ke client itu sendiri
+
+
+
+
+KOMPONEN WEBGIS
+- Mapserver , untuk mengolah data peta dengan (Geoserver,ArcGIS server,SuperMap .dll)
+- Web Map Library , framework untuk menampilkan peta di dalam aplikasi web . seperti Leaflet, Openlayers.
+- Database Geospasial , diantaranya:
+  a. open source : PostgreSQL + PostGIS
+
+

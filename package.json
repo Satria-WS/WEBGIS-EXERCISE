@@ -1,0 +1,17 @@
+{
+  "name": "pt-nusantara-secom-infotech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-modules": "^1.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
