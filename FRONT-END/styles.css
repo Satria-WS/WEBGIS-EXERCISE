@@ -1,0 +1,9 @@
+body {
+  background-color: aquamarine;
+}
+
+#map {
+  /* height: 500px; */
+  height: 857px;
+  width: 970px;
+}
